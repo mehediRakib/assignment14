@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Website Redesign",
+    "description": "Redesign and development of a new website for a leading marketing agency.",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "React"]
+  },
+  {
+    "title": "Mobile App Development",
+    "description": "Development of a native mobile app for an e-commerce platform.",
+    "technologies": ["React Native", "Node.js", "MongoDB"]
+  },
+  {
+    "title": "Custom Software Development",
+    "description": "Development of a custom CRM system for a healthcare organization.",
+    "technologies": ["Java", "Spring Boot", "MySQL"]
+  }
+]

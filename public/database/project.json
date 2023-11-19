@@ -1,0 +1,17 @@
+[
+  {
+    "title": "E-commerce Platform",
+    "description": "Development of a highly scalable e-commerce platform that handles millions of products and transactions.",
+    "technologies": ["React", "Redux", "GraphQL", "MongoDB"]
+  },
+  {
+    "title": "CRM System",
+    "description": "Development of a custom CRM system that streamlines customer interactions and sales processes.",
+    "technologies": ["Java", "Spring Boot", "MySQL"]
+  },
+  {
+    "title": "Healthcare Management System",
+    "description": "Development of a comprehensive healthcare management system that manages patient records, appointments, and billing.",
+    "technologies": ["C#, .NET Framework", "SQL Server"]
+  }
+]

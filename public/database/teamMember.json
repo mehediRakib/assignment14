@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John Doe",
+    "title": "CEO",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageUrl": "https://picsum.photos/200/300?image=10"
+  },
+  {
+    "name": "Jane Doe",
+    "title": "CTO",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageUrl": "https://picsum.photos/200/300?image=20"
+  },
+  {
+    "name": "Peter Jones",
+    "title": "Software Engineer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageUrl": "https://picsum.photos/200/300?image=30"
+  }
+]

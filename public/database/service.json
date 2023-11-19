@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Web Design & Development",
+    "description": "We design and develop high-quality, user-friendly websites that are optimized for search engines and mobile devices.",
+    "icon": "fa-solid fa-laptop-code"
+  },
+  {
+    "title": "Mobile App Development",
+    "description": "We create native and cross-platform mobile apps for iOS and Android devices that deliver an engaging user experience.",
+    "icon": "fa-solid fa-mobile-alt"
+  },
+  {
+    "title": "Custom Software Development",
+    "description": "We build custom software solutions that meet the specific needs of our clients, from enterprise applications to SaaS products.",
+    "icon": "fa-solid fa-code"
+  }
+]

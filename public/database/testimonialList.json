@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Client 1",
+    "company": "Company A",
+    "quote": "We were impressed with the design agency's expertise and professionalism. They delivered a website that exceeded our expectations.",
+    "imageUrl": "https://picsum.photos/200/300?image=40"
+  },
+  {
+    "name": "Client 2",
+    "company": "Company B",
+    "quote": "The design agency's mobile app development team was top-notch. They delivered a high-quality app on time and within budget.",
+    "imageUrl": "https://picsum.photos/200/300?image=50"
+  },
+  {
+    "name": "Client 3",
+    "company": "Company C",
+    "quote": "The design agency's custom software development team was very responsive and understanding of our needs."
+  }
+  ]
+
